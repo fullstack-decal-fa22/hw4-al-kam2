@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webdev-HW4-react/static/css/main.b6832693.css",
+    "main.js": "/webdev-HW4-react/static/js/main.3643056e.js",
+    "static/js/787.263e14e4.chunk.js": "/webdev-HW4-react/static/js/787.263e14e4.chunk.js",
+    "index.html": "/webdev-HW4-react/index.html",
+    "main.b6832693.css.map": "/webdev-HW4-react/static/css/main.b6832693.css.map",
+    "main.3643056e.js.map": "/webdev-HW4-react/static/js/main.3643056e.js.map",
+    "787.263e14e4.chunk.js.map": "/webdev-HW4-react/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.3643056e.js"
+  ]
+}
